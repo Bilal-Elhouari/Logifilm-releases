@@ -10,7 +10,7 @@ Open the [latest release](https://github.com/Bilal-Elhouari/Logifilm-releases/re
 
 | System | File |
 |---|---|
-| **Windows** | `Logifilm.Setup.x.y.z.exe` |
+| **Windows** | `Logifilm-Setup-x.y.z.exe` |
 | **macOS** (Apple Silicon: M1 and later) | `Logifilm-x.y.z-arm64.dmg` |
 
 The other files (`latest.yml`, `latest-mac.yml`, `.zip`, `.blockmap`) are used by the app's automatic updates — you don't need to download them.
